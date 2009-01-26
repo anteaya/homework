@@ -1,4 +1,4 @@
-require 'test/unit'
+require '/var/lib/gems/1.8/gems/cairo-1.8.0/test-unit'
 
 class Sample_Test < Test::Unit::TestCase
   #def setup
