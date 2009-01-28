@@ -1,0 +1,5 @@
+anita@anita-laptop:~/sandbox/homework$ ruby sinatra_time.rb 
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require': no such file to load -- sinatra (LoadError)
+	from /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from sinatra_time.rb:3
+
