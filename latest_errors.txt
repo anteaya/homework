@@ -1,20 +1,16 @@
 anita@anita-laptop:~/sandbox/homework$ ruby giles_innocent.rb 
 Loaded suite giles_innocent
 Started
-EEFFEFF
-Finished in 0.013236 seconds.
+FFFFFFF
+Finished in 0.013402 seconds.
 
-  1) Error:
-test_arrest(Giles_Test):
-ArgumentError: wrong number of arguments (1 for 0)
-    giles_innocent.rb:47:in `arrest'
-    giles_innocent.rb:47:in `test_arrest'
+  1) Failure:
+test_arrest(Giles_Test) [giles_innocent.rb:47]:
+<nil> is not true.
 
-  2) Error:
-test_death(Giles_Test):
-ArgumentError: wrong number of arguments (1 for 0)
-    giles_innocent.rb:43:in `kill'
-    giles_innocent.rb:43:in `test_death'
+  2) Failure:
+test_death(Giles_Test) [giles_innocent.rb:43]:
+<nil> is not true.
 
   3) Failure:
 test_frustration(Giles_Test) [giles_innocent.rb:35]:
@@ -24,11 +20,9 @@ test_frustration(Giles_Test) [giles_innocent.rb:35]:
 test_incarceration(Giles_Test) [giles_innocent.rb:51]:
 <nil> is not true.
 
-  5) Error:
-test_radar(Giles_Test):
-ArgumentError: wrong number of arguments (1 for 0)
-    giles_innocent.rb:39:in `locates'
-    giles_innocent.rb:39:in `test_radar'
+  5) Failure:
+test_radar(Giles_Test) [giles_innocent.rb:39]:
+<nil> is not true.
 
   6) Failure:
 test_scream(Giles_Test) [giles_innocent.rb:31]:
@@ -38,7 +32,7 @@ test_scream(Giles_Test) [giles_innocent.rb:31]:
 test_setting(Giles_Test) [giles_innocent.rb:27]:
 <nil> is not true.
 
-7 tests, 4 assertions, 4 failures, 3 errors
+7 tests, 7 assertions, 7 failures, 0 errors
 anita@anita-laptop:~/sandbox/homework$ 
 
 
