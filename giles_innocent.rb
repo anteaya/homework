@@ -2,22 +2,28 @@ require 'test/unit'
 
   def cops(*args)
     def arrest(*args)
+      true
     end
   end
 
   def giles(*args)
     def working
+      true
     end
     def tweets
+      true
     end
     def locates(*args)
+      true
     end
     def kill(*args)
+      true
     end
   end
 
   def child
     def scream
+      true
     end
   end
 

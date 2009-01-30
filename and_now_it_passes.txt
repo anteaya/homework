@@ -1,0 +1,9 @@
+anita@anita-laptop:~/sandbox/homework$ ruby giles_innocent.rb 
+Loaded suite giles_innocent
+Started
+.......
+Finished in 0.002488 seconds.
+
+7 tests, 7 assertions, 0 failures, 0 errors
+anita@anita-laptop:~/sandbox/homework$ 
+
