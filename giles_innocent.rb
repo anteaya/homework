@@ -9,6 +9,24 @@ require 'test/unit'
   def child
   end
 
+  def arrest
+  end
+
+  def kill
+  end
+
+  def tweets
+  end
+
+  def locates
+  end
+
+  def scream
+  end
+
+  def working
+  end
+
 class Giles_Test < Test::Unit::TestCase
 
   def test_setting
