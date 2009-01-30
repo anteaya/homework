@@ -1,6 +1,13 @@
-#assignment: the story of my crimes, in test form. assert child.scream; assert giles.kill(child); assert cops.arrest(giles); etc
-
 require 'test/unit'
+
+  def cops
+  end
+
+  def giles
+  end
+
+  def child
+  end
 
 class Giles_Test < Test::Unit::TestCase
 
