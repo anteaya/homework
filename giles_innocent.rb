@@ -1,7 +1,7 @@
 require 'test/unit'
 
   def cops
-    def arrest
+    def arrest()
     end
   end
 
@@ -10,9 +10,9 @@ require 'test/unit'
     end
     def tweets
     end
-    def locates
+    def locates()
     end
-    def kill
+    def kill()
     end
   end
 
