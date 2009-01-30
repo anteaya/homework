@@ -1,30 +1,24 @@
 require 'test/unit'
 
   def cops
+    def arrest
+    end
   end
 
   def giles
+    def working
+    end
+    def tweets
+    end
+    def locates
+    end
+    def kill
+    end
   end
 
   def child
-  end
-
-  def arrest
-  end
-
-  def kill
-  end
-
-  def tweets
-  end
-
-  def locates
-  end
-
-  def scream
-  end
-
-  def working
+    def scream
+    end
   end
 
 class Giles_Test < Test::Unit::TestCase
