@@ -1,18 +1,18 @@
 require 'test/unit'
 
-  def cops
-    def arrest()
+  def cops(*args)
+    def arrest
     end
   end
 
-  def giles
+  def giles(*args)
     def working
     end
     def tweets
     end
-    def locates()
+    def locates
     end
-    def kill()
+    def kill
     end
   end
 

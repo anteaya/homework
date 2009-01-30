@@ -2,7 +2,7 @@ anita@anita-laptop:~/sandbox/homework$ ruby giles_innocent.rb
 Loaded suite giles_innocent
 Started
 EEFFEFF
-Finished in 0.015978 seconds.
+Finished in 0.013236 seconds.
 
   1) Error:
 test_arrest(Giles_Test):
