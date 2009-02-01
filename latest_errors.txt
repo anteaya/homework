@@ -1,38 +1,4 @@
-anita@anita-laptop:~/sandbox/homework$ ruby giles_innocent.rb 
-Loaded suite giles_innocent
-Started
-FFFFFFF
-Finished in 0.013402 seconds.
-
-  1) Failure:
-test_arrest(Giles_Test) [giles_innocent.rb:47]:
-<nil> is not true.
-
-  2) Failure:
-test_death(Giles_Test) [giles_innocent.rb:43]:
-<nil> is not true.
-
-  3) Failure:
-test_frustration(Giles_Test) [giles_innocent.rb:35]:
-<nil> is not true.
-
-  4) Failure:
-test_incarceration(Giles_Test) [giles_innocent.rb:51]:
-<nil> is not true.
-
-  5) Failure:
-test_radar(Giles_Test) [giles_innocent.rb:39]:
-<nil> is not true.
-
-  6) Failure:
-test_scream(Giles_Test) [giles_innocent.rb:31]:
-<nil> is not true.
-
-  7) Failure:
-test_setting(Giles_Test) [giles_innocent.rb:27]:
-<nil> is not true.
-
-7 tests, 7 assertions, 7 failures, 0 errors
-anita@anita-laptop:~/sandbox/homework$ 
-
+anita@anita-laptop:~/sandbox/homework$ ruby giles_test.rb 
+giles_test.rb:3: syntax error, unexpected '\n', expecting tCOLON2 or '[' or '.'
+giles_test.rb:7: syntax error, unexpected kEND, expecting $end
 
