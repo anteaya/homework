@@ -1,31 +1,31 @@
 require 'test/unit'
 
-  class Cops(*args)
-    def arrest(*args)
-      true
-    end
+class Cops(*args)
+  def arrest(*args)
+    true
   end
+end
 
-  class Giles(*args)
-    def working
-      true
-    end
-    def tweets
-      true
-    end
-    def locates(*args)
-      true
-    end
-    def kill(*args)
-      true
-    end
+class Giles(*args)
+  def working
+    true
   end
+  def tweets
+    true
+  end
+  def locates(*args)
+    true
+  end
+  def kill(*args)
+    true
+  end
+end
 
-  class Child
-    def scream
-      true
-    end
+class Child
+  def scream
+    true
   end
+end
 
 class Giles_Test < Test::Unit::TestCase
 
